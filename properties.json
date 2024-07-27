@@ -1,8 +1,8 @@
 {
     "BRAND": "google",
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 8 Pro",
-    "PRODUCT": "husky_beta",
-    "DEVICE": "husky",
-    "FINGERPRINT": "google\/husky_beta\/husky:15\/AP31.240517.022\/11948202:user\/release-keys"
+    "MODEL": "Pixel 8a",
+    "PRODUCT": "akita_beta",
+    "DEVICE": "akita",
+    "FINGERPRINT": "google\/akita_beta\/akita:15\/AP31.240617.009\/12094726:user\/release-keys"
 }
