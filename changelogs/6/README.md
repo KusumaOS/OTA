@@ -1,0 +1,28 @@
+## Changelogs for [Fantom](https://kbbi.kemdikbud.go.id/entri/fantom) (6)
+
+ - Fully rebrand to Kusuma
+ - New default wallpaper
+ - Remove lock screen media art
+ - Move Button settings to Display, Gesture and Accesibility
+ - Move Status Bar settings to Display and Gesture
+ - Add options to cylce through ringer modes with gesture
+ - Add options for Parallel Space
+ - Add options to toggle IME navigation bar
+ - Add options to toggle button navigation bar layout
+ - Add options to toggle clipboard overlay
+ - Add options to toggle screenshot overlay
+ - Add options to toggle rotation suggestion button
+ - Add turn off Wi-Fi automatically
+ - Add turn off Bluetooth automatically
+ - Add Storage Scopes
+ - Add Contact Scopes
+ - Move adaptive brightness button to QS tiles
+ - Add Bluetooth dialog in QS
+ - Split Bluetooth dialog and Bluetooth QS
+ - Add data usages in internet dialog
+ - Add data usage QS tiles
+ - Add ExthmUI QR Code Scanner chooser
+ - Add auto update to pass device verdict on Play Integrity
+ - Add haptic feedback to volume and brightness slider
+ - Restyle volume and brightness slider
+ - Use Mulch as default browser
