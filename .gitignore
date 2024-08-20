@@ -4,5 +4,6 @@
 
 # But not these files...
 !.gitignore
+!keys.xml
 !properties.json
 !/changelogs
