@@ -1,8 +1,8 @@
 {
     "BRAND": "google",
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9",
-    "PRODUCT": "tokay_beta",
-    "DEVICE": "tokay",
-    "FINGERPRINT": "google/tokay_beta/tokay:15/BP11.241025.006/12620009:user/release-keys"
+    "MODEL": "Pixel 6",
+    "PRODUCT": "oriole_beta",
+    "DEVICE": "oriole",
+    "FINGERPRINT": "google/oriole_beta/oriole:Baklava/BP21.241121.009/12787338:user/release-keys"
 }
